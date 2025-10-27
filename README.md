@@ -1,4 +1,5 @@
-PromoGPT - AI-Powered SME Marketing Planner
+PromoGPT 
+AI-Powered SME Marketing Planner
 PromoGPT is an autonomous AI marketing agent designed to help small and medium-sized enterprises (SMEs) automate the entire marketing campaign lifecycle. By integrating business data and using advanced language models, PromoGPT generates tailored social media campaigns, ad copy, content calendars, and actionable insights aligned with SMEs’ goals and budgets.
 
 Features
@@ -23,30 +24,30 @@ Prerequisites
 
 Installation.
 
-Clone the repository:
+1. Clone the repository:
 bash
 git clone https://github.com/yourusername/promogpt.git
 cd promogpt
 
-Install dependencies:
+2. Install dependencies:
 bash
 pip install -r requirements.txt  # For Python backend  
 npm install                      # For frontend if React is used  
 
-Configure environment variables:
+3. Configure environment variables:
 Create a .env file and add your API keys:
 text
 OPENAI_API_KEY=your_openai_api_key_here  
 SHOPIFY_API_KEY=your_shopify_api_key_here  
 HUBSPOT_API_KEY=your_hubspot_api_key_here  
 ELEVENLABS_API_KEY=your_elevenlabs_api_key_here  
-Run backend and frontend servers
 
-For Streamlit:
+4. Run backend and frontend servers
+-For Streamlit:
 bash
 streamlit run app.py
 
-For React:
+-For React:
 bash
 npm start
 
