@@ -1,5 +1,4 @@
-PromoGPT 
-AI-Powered SME Marketing Planner
+PromoGPT - AI-Powered SME Marketing Planner
 PromoGPT is an autonomous AI marketing agent designed to help small and medium-sized enterprises (SMEs) automate the entire marketing campaign lifecycle. By integrating business data and using advanced language models, PromoGPT generates tailored social media campaigns, ad copy, content calendars, and actionable insights aligned with SMEs’ goals and budgets.
 
 Features
